@@ -1,6 +1,6 @@
 # Hi there, I'm Roman! 👋
 
-Data & Operations Analyst based in Prague, Czech Republic. I specialize in transforming raw operational and e-commerce data into actionable business intelligence, interactive dashboards, and optimized ETL pipelines.
+Data Analyst based in Prague, Czech Republic. I specialize in transforming raw operational and e-commerce data into actionable business intelligence, interactive dashboards, and optimized ETL pipelines.
 
 ---
 
