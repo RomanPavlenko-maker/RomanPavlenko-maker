@@ -16,7 +16,7 @@ Data Analyst based in Prague, Czech Republic. I specialize in transforming raw o
    * *Tools:* PostgreSQL, SQL, Looker Studio
    * Analyzed 119,000+ booking records to identify cancellation dynamics and revenue leakage vectors.
 2. **[E-Commerce Sales & Customer Analytics](https://github.com/RomanPavlenko-maker/ecommerce-sales-analytics)**
-   * *Tools:* PostgreSQL, Python (Pandas), Power BI
+   * *Tools:* PostgreSQL, Power BI
    * Analyzed $177M+ in transactional data (138k records) for Unit Economics, LTV modeling, and marketing channel profitability.
 
 ---
