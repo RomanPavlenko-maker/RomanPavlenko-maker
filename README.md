@@ -7,8 +7,7 @@ Data Analyst based in Prague, Czech Republic. I specialize in transforming raw o
 ### 🛠️ Tech Stack & Tools
 * **Databases & Querying:** PostgreSQL, SQL (CTEs, Window Functions, Complex JOINs, Aggregations)
 * **BI & Data Visualization:** Power BI (DAX, Data Modeling), Looker Studio, Power Query
-* **Programming & Libraries:** Python (Pandas, NumPy, Matplotlib, Seaborn)
-* **Spreadsheets & Methods:** Advanced Excel (VLOOKUP, Pivot Tables, Power Pivot), Unit Economics, LTV Analysis, Cohort Analysis
+* **Spreadsheets & Methods:** Excel (VLOOKUP, Pivot Tables, Power Pivot)
 
 ---
 
